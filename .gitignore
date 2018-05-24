@@ -1,0 +1,8 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# OSX
+.DS_Store
+*.DS_Store
+
